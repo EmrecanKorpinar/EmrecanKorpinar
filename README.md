@@ -1,32 +1,37 @@
 # EmrecanKorpinar
-# Im Emrecan, I'm a 4th Computer Engineer with a passion for Java and Cloud System. Welcome to my GitHub profile, where I explore and share my projects on JavaScript and more  👇
+# Im Emrecan, I'm a 4th Computer Engineer with a passion for  Cloud System. Welcome to my GitHub profile, where I explore and share my projects on JavaScript and more  👇
 
 ![Banner](assets/logo.jpg)
 
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
+<img src="https://img.shields.io/badge/-Python-000?&logo=Python" height="40"/>
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" height="40"/>
+<img src="https://img.shields.io/badge/-C-000?&logo=C" height="40"/>
+<img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" height="40"/>
+<img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" height="40"/>
+<img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" height="40"/>
+<img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" height="40"/>
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+<img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" height="40"/>
+<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" height="40"/>
+<img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes" height="40"/>
+<img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" height="40"/>
+<img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" height="40"/>
+<img src="https://img.shields.io/badge/-React-000?&logo=React" height="40"/>
+<img src="https://img.shields.io/badge/-Redis-000?&logo=Redis" height="40"/>
+<img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" height="40"/>
+<img src="https://img.shields.io/badge/-NPM-000?&logo=npm" height="40"/>
+<img src="https://img.shields.io/badge/-Git-000?&logo=git" height="40"/>
+<img src="https://img.shields.io/badge/-GitHub-000?&logo=github" height="40"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss" height="40"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" height="40"/>
+<img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" height="40"/>
+
+
 
 ### Full Stack Projects
 
