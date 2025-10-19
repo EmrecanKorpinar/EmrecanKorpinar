@@ -1,7 +1,7 @@
 # EmrecanKorpinar
 # Im Emrecan, I'm a 4th Computer Engineer with a passion for Java and Cloud System. Welcome to my GitHub profile, where I explore and share my projects on JavaScript and more  👇
 
-![Banner](assets/emrecan.gif)
+![Banner](https://www.canva.com/design/DAG2RfD10ko/AOBLpJdX94E3XtIyMqloKg/edit?utm_content=DAG2RfD10ko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Languages
 
@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
 
 ### Technologies
 
