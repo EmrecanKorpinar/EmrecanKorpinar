@@ -51,7 +51,7 @@
 
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emre-can-a65419313/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emrecan-k%C3%B6rp%C4%B1nar-a65419313/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/emrecan.korpinar07/)
 
 
