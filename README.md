@@ -1,7 +1,8 @@
 # EmrecanKorpinar
 # Im Emrecan, I'm a 4th Computer Engineer with a passion for Java and Cloud System. Welcome to my GitHub profile, where I explore and share my projects on JavaScript and more  👇
 
-![Banner](https://www.canva.com/design/DAG2RfD10ko/AOBLpJdX94E3XtIyMqloKg/edit?utm_content=DAG2RfD10ko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner](![Banner](assets/logo/logo.jpg)
+
 
 ### Languages
 
