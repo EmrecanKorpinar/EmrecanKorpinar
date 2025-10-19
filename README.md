@@ -5,12 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emre-can-a65419313/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/emrecan.korpinar07/)
 
-## 🤖 Work Areas
-![Cloud](https://img.shields.io/badge/Cloud-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge)
-![Game development](https://img.shields.io/badge/Game_Development-orange?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-red?style=for-the-badge)
-
 
 ## 📬 Contact Me
 ## For any inquiries, please email us at: 
