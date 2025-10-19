@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" height="60"/>
   <img src="https://img.shields.io/badge/-C-000?&logo=C" height="60"/>
   <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" height="60"/>
-  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" height="60"/>
+  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" height="90"/>
   <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" height="60"/>
   <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" height="60"/>
 </div>
